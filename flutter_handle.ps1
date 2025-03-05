@@ -6,4 +6,5 @@ dart pub add dev:freezed
 dart pub add json_annotation
 dart pub add dev:json_serializable
 
+dart run build_runner build
 dart run build_runner watch -d
